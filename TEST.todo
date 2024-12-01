@@ -1,0 +1,6 @@
+```
+Q2 Create a PHP program that consists of two forms: one using the GET method to search for an item in a list
+(e.g., grocery list), and another using the POST method to add a new item to the list. After the new item is added
+via POST, it should appear in the results of the GET search. Ensure both functionalities are working on the same
+page.
+```
